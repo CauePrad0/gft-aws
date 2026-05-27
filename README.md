@@ -1,4 +1,4 @@
-# Meus Estudos de AWS: Entendendo o Amazon EC2 🚀
+# Meus Estudos de AWS: Entendendo o Amazon EC2 
 
 Este repositório foi criado para organizar minhas anotações e os principais aprendizados que tive nas aulas teóricas da DIO sobre o **Amazon EC2 (Elastic Compute Cloud)**. 
 
